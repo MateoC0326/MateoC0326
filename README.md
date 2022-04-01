@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateoC0326 or Mateo Carrion
-- 👀 I’m interested in video games, films, music, drawing, and excercising. 
-- 🌱 I’m currently learning programming and computer science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science, video games, films, music, drawing, and excercising. 
+- 🌱 I’m currently learning programming and computer science courses .
+- 💞️ I’m looking to collaborate on coding projects. 
 - 📫 How to reach me ...
 
 <!---
